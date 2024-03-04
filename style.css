@@ -1,0 +1,21 @@
+header{
+    background-color: black;
+}
+header img{
+    width: 100px;
+}
+main{
+    background-color: white;
+}
+main img{
+    width: 250px;
+}
+/*
+.Flash{
+    width: 300px;
+} */
+footer{
+    background-color: black;
+    justify-content: space-around;
+    
+}
